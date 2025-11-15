@@ -1,0 +1,1800 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-11-08T19:40:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/92740620",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Fredrikstad bussterminal",
+        "public_transport": "station",
+        "ref:nsrs": "2306",
+        "route_ref": "200;2450;2460;301;302;303;334;350;351;353;355;356;357;358;359;361;362;364;368;369;372;F11;T6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.940347,
+          59.213885
+        ]
+      },
+      "id": "node/92740620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/243320943",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Årnes stasjon",
+        "public_transport": "station",
+        "ref:nsrs": "6497",
+        "route_ref": "2672;3655;3657;3671;3673;3674;3677;3681;821;822;833;834;835;836;838",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.465094,
+          60.123333
+        ]
+      },
+      "id": "node/243320943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/257628800",
+        "amenity": "bus_station",
+        "internet_access": "no",
+        "name": "Blakstad bussterminal",
+        "network": "Ruter",
+        "ref:nsrs": "3209",
+        "route_ref": "251;252;262;701;713;722"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.465262,
+          59.819264
+        ]
+      },
+      "id": "node/257628800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/305242561",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Kongsberg knutepunkt",
+        "operator": "Brakar",
+        "public_transport": "station",
+        "ref:nsrs": "17354",
+        "route_ref": "401;402;403;404;405;406;407;408;410;420;T1",
+        "wheelchair": "yes",
+        "wikidata": "Q115464711"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.650339,
+          59.671744
+        ]
+      },
+      "id": "node/305242561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312274999",
+        "amenity": "bus_station",
+        "name": "Tanumshede centrum",
+        "operator": "Västtrafik",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3206222,
+          58.7223938
+        ]
+      },
+      "id": "node/312274999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312591220",
+        "amenity": "bus_station",
+        "name": "Grebbestads busstation",
+        "operator": "Västtrafik",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2539317,
+          58.6919583
+        ]
+      },
+      "id": "node/312591220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/319694419",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Stenungsunds station",
+        "operator": "Västtrafik",
+        "public_transport": "station",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8231786,
+          58.0716706
+        ]
+      },
+      "id": "node/319694419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/324112717",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "check_date": "2025-07-12",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6771718,
+          58.4651845
+        ]
+      },
+      "id": "node/324112717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/324714919",
+        "amenity": "bus_station",
+        "name": "Moss bussterminal",
+        "ref:nsrs": "2900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.662746,
+          59.436439
+        ]
+      },
+      "id": "node/324714919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/339363160",
+        "amenity": "bus_station",
+        "name": "Sarpsborg bussterminal",
+        "ref:nsrs": "2952",
+        "route_ref": "200;202;204;206;207;210;2201;2300;2371;2403;2404;2420;2430;2441;2444;2450;2460;F16;T3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.107142,
+          59.283021
+        ]
+      },
+      "id": "node/339363160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/361136246",
+        "amenity": "bus_station",
+        "name": "Kløfta stasjon",
+        "ref:nsrs": "5001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.138586,
+          60.07493
+        ]
+      },
+      "id": "node/361136246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/416908979",
+        "amenity": "bus_station",
+        "fixme": "Flytta busslinjerelationer till rätt hållplatslägen",
+        "name": "Torp Terminalen",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8164706,
+          58.3532229
+        ]
+      },
+      "id": "node/416908979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/446822767",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Hamar skysstasjon",
+        "public_transport": "station",
+        "ref:nsrs": "10559",
+        "route_ref": "001;002;003;005;017;032;040;041;051;055;108;170;350",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.080375,
+          60.791363
+        ]
+      },
+      "id": "node/446822767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/505207256",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "check_date": "2024-08-17",
+        "name": "Strömstad station",
+        "operator": "Västtrafik",
+        "public_transport": "station",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1739125,
+          58.9366843
+        ]
+      },
+      "id": "node/505207256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/541012758",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Helsfyr T",
+        "public_transport": "station",
+        "ref:nsrs": "6071",
+        "route_ref": "21;28;331;344;401;404;411;431;58;66;68;76;76B;T15;T2",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.80114,
+          59.912759
+        ]
+      },
+      "id": "node/541012758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/544570397",
+        "amenity": "bus_station",
+        "name": "Fagernes skysstasjon",
+        "ref:nsrs": "11189",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.239043,
+          60.98583
+        ]
+      },
+      "id": "node/544570397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/564929586",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Førde rutebilstasjon",
+        "public_transport": "station",
+        "ref:nsrs": "36025",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.854045,
+          61.452431
+        ]
+      },
+      "id": "node/564929586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/570206829",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Sandvika bussterminal",
+        "public_transport": "station",
+        "ref:nsrs": "4030",
+        "route_ref": "121;151;152;160;262;705;706;731;732;751;753;761;762",
+        "shelter": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.524556,
+          59.892905
+        ]
+      },
+      "id": "node/570206829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/939732469",
+        "amenity": "bus_station",
+        "name": "Kongsvinger stasjon",
+        "network": "Inlandstrafikk",
+        "ref:nsrs": "9851"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.005095,
+          60.187459
+        ]
+      },
+      "id": "node/939732469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1111002889",
+        "amenity": "bus_station",
+        "name": "Kleppestø terminal",
+        "ref:nsrs": "30815"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.226697,
+          60.407406
+        ]
+      },
+      "id": "node/1111002889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1175143489",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "internet_access": "no",
+        "name": "Asker stasjon",
+        "public_transport": "station",
+        "ref:nsrs": "3247",
+        "route_ref": "266;701;704;706;71;713;721;722;723;724;725;726",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.433721,
+          59.83331
+        ]
+      },
+      "id": "node/1175143489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1277068584",
+        "amenity": "bus_station",
+        "name": "Elverum skysstasjon",
+        "ref:nsrs": "10456",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.547127,
+          60.882234
+        ]
+      },
+      "id": "node/1277068584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1289150672",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Ringebu skysstasjon",
+        "public_transport": "station",
+        "ref:nsrs": "13425",
+        "route_ref": "142;420;421;424"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.138547,
+          61.529511
+        ]
+      },
+      "id": "node/1289150672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1289178407",
+        "amenity": "bus_station",
+        "name": "Raufoss stasjon",
+        "ref:nsrs": "14089",
+        "route_ref": "150;301;302;330;380;388;800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.613329,
+          60.722593
+        ]
+      },
+      "id": "node/1289178407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1289178416",
+        "amenity": "bus_station",
+        "name": "Lillehammer skysstasjon",
+        "ref:nsrs": "14115",
+        "route_ref": "001;002;003;004;005;006;009;142;150;151;201;211;231;233;242;260;262;270",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.461624,
+          61.114744
+        ]
+      },
+      "id": "node/1289178416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1289178789",
+        "amenity": "bus_station",
+        "check_date": "2023-02-19",
+        "name": "Eidsvoll stasjon",
+        "ref:nsrs": "3097",
+        "route_ref": "3732;3734;3771;3872;811;812;813;814;816;821;822"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.247125,
+          60.330174
+        ]
+      },
+      "id": "node/1289178789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1289230294",
+        "amenity": "bus_station",
+        "name": "Jessheim stasjon",
+        "ref:nsrs": "4961",
+        "route_ref": "318;3573;3574;3576;3873;811;818;838;853;855"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.176129,
+          60.141896
+        ]
+      },
+      "id": "node/1289230294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1357052782",
+        "amenity": "bus_station",
+        "name": "Brandbu skysstasjon",
+        "ref:nsrs": "11490",
+        "route_ref": "150;153;703;704;705;707;748"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.506174,
+          60.420054
+        ]
+      },
+      "id": "node/1357052782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1595603318",
+        "amenity": "bus_station",
+        "name": "Varekils bussstation",
+        "operator": "Västtrafik",
+        "public_transport": "station",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7208266,
+          58.125184
+        ]
+      },
+      "id": "node/1595603318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1649252094",
+        "amenity": "bus_station",
+        "name": "Skee",
+        "official_name": "Skee station",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "Ske",
+        "ref": "Skee",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2629426,
+          58.9223774
+        ]
+      },
+      "id": "node/1649252094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2163187128",
+        "amenity": "bus_station",
+        "name": "Stavanger bussterminal",
+        "ref:nsrs": "59853",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.73349,
+          58.966444
+        ]
+      },
+      "id": "node/2163187128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2248698520",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Bergen busstasjon",
+        "public_transport": "station",
+        "ref:nsrs": "30810",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.333857,
+          60.388114
+        ]
+      },
+      "id": "node/2248698520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3037328995",
+        "amenity": "bus_station",
+        "name": "Dokka skysstasjon",
+        "ref:nsrs": "13232",
+        "route_ref": "136;153;161;162;651;720;801;815;820;821;822;825;851"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.073157,
+          60.833913
+        ]
+      },
+      "id": "node/3037328995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4043959451",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Brobacka korsväg",
+        "operator": "Västtrafik",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4386785,
+          57.9753442
+        ]
+      },
+      "id": "node/4043959451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6142308795",
+        "amenity": "bus_station",
+        "name": "Åmot skysstasjon",
+        "ref:nsrs": "16902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.928187,
+          59.893516
+        ]
+      },
+      "id": "node/6142308795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6372506546",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Sogndal skysstasjon",
+        "public_transport": "station",
+        "ref:nsrs": "35169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.09703,
+          61.230737
+        ]
+      },
+      "id": "node/6372506546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6372603214",
+        "amenity": "bus_station",
+        "name": "Arendal bussterminal",
+        "ref:nsrs": "24627"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.764855,
+          58.460001
+        ]
+      },
+      "id": "node/6372603214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6372604702",
+        "amenity": "bus_station",
+        "name": "Gaupemyr bussterminal",
+        "ref:nsrs": "25380"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.395234,
+          58.268655
+        ]
+      },
+      "id": "node/6372604702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6372697997",
+        "amenity": "bus_station",
+        "name": "Tangen",
+        "ref:nsrs": "21315"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.284528,
+          58.895669
+        ]
+      },
+      "id": "node/6372697997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6372704129",
+        "amenity": "bus_station",
+        "name": "Bø stasjon",
+        "ref:nsrs": "21153"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.069495,
+          59.409554
+        ]
+      },
+      "id": "node/6372704129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6372801927",
+        "amenity": "bus_station",
+        "name": "Lena skysstasjon",
+        "ref:nsrs": "13258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.822217,
+          60.677205
+        ]
+      },
+      "id": "node/6372801927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6372810577",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Vinstra skysstasjon",
+        "public_transport": "station",
+        "ref:nsrs": "11272"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.747473,
+          61.595439
+        ]
+      },
+      "id": "node/6372810577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6372876946",
+        "amenity": "bus_station",
+        "name": "Hønefoss sentrum",
+        "ref:nsrs": "16961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.257483,
+          60.165219
+        ]
+      },
+      "id": "node/6372876946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6372878163",
+        "amenity": "bus_station",
+        "name": "Drammen busstasjon",
+        "ref:nsrs": "16804",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.20017,
+          59.740605
+        ]
+      },
+      "id": "node/6372878163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373566524",
+        "amenity": "bus_station",
+        "name": "Ås stasjon",
+        "ref:nsrs": "5275"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.793933,
+          59.663815
+        ]
+      },
+      "id": "node/6373566524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373566688",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Nesoddtangen",
+        "public_transport": "station",
+        "ref:nsrs": "5587",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.656821,
+          59.870676
+        ]
+      },
+      "id": "node/6373566688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373566873",
+        "amenity": "bus_station",
+        "name": "Olavsgaard",
+        "ref:nsrs": "5517",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.001507,
+          59.979161
+        ]
+      },
+      "id": "node/6373566873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373567073",
+        "amenity": "bus_station",
+        "name": "Nannestad torg",
+        "ref:nsrs": "3509",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.013437,
+          60.219756
+        ]
+      },
+      "id": "node/6373567073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373567453",
+        "amenity": "bus_station",
+        "name": "Oslo lufthavn",
+        "ref:nsrs": "5357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.097244,
+          60.193473
+        ]
+      },
+      "id": "node/6373567453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373567489",
+        "amenity": "bus_station",
+        "name": "Lørenskog sentrum",
+        "ref:nsrs": "5367"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.954844,
+          59.927947
+        ]
+      },
+      "id": "node/6373567489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373570365",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Vestby stasjon",
+        "public_transport": "station",
+        "ref:nsrs": "4569"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.749717,
+          59.604209
+        ]
+      },
+      "id": "node/6373570365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373612749",
+        "amenity": "bus_station",
+        "name": "Bryne stasjon",
+        "ref:nsrs": "28647"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.648968,
+          58.734901
+        ]
+      },
+      "id": "node/6373612749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373612906",
+        "amenity": "bus_station",
+        "name": "Egersund bussterminal",
+        "ref:nsrs": "28828"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.002438,
+          58.453382
+        ]
+      },
+      "id": "node/6373612906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373613127",
+        "amenity": "bus_station",
+        "name": "Håvik bussterminal",
+        "ref:nsrs": "26729",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.290011,
+          59.320007
+        ]
+      },
+      "id": "node/6373613127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373613128",
+        "amenity": "bus_station",
+        "name": "Sokn bussterminal",
+        "ref:nsrs": "26770",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.67308,
+          59.056067
+        ]
+      },
+      "id": "node/6373613128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373613130",
+        "amenity": "bus_station",
+        "name": "Mjåsund bussterminal",
+        "ref:nsrs": "26926"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.448253,
+          59.31546
+        ]
+      },
+      "id": "node/6373613130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373613136",
+        "amenity": "bus_station",
+        "name": "Norheim bussterminal",
+        "ref:nsrs": "27601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.30651,
+          59.379752
+        ]
+      },
+      "id": "node/6373613136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373613139",
+        "amenity": "bus_station",
+        "name": "Amanda terminal",
+        "ref:nsrs": "28109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.329809,
+          59.394633
+        ]
+      },
+      "id": "node/6373613139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373613727",
+        "amenity": "bus_station",
+        "name": "Sauda bussterminal",
+        "ref:nsrs": "26106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.352378,
+          59.647377
+        ]
+      },
+      "id": "node/6373613727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373614193",
+        "amenity": "bus_station",
+        "name": "Ølen bussterminal",
+        "ref:nsrs": "26891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.805915,
+          59.606025
+        ]
+      },
+      "id": "node/6373614193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373684576",
+        "amenity": "bus_station",
+        "name": "Ågotnes terminal",
+        "ref:nsrs": "30278"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.996752,
+          60.405297
+        ]
+      },
+      "id": "node/6373684576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373684987",
+        "amenity": "bus_station",
+        "name": "Dolvik terminal",
+        "ref:nsrs": "30146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.269027,
+          60.308605
+        ]
+      },
+      "id": "node/6373684987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373686996",
+        "amenity": "bus_station",
+        "name": "Odda busstasjon",
+        "ref:nsrs": "30756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.54691,
+          60.070537
+        ]
+      },
+      "id": "node/6373686996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373689722",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Arna terminal",
+        "public_transport": "station",
+        "ref:nsrs": "32154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.464154,
+          60.420066
+        ]
+      },
+      "id": "node/6373689722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373691597",
+        "amenity": "bus_station",
+        "check_date": "2025-07-22",
+        "level": "1;2",
+        "name": "Lagunen terminal",
+        "name:no": "Lagunen terminal",
+        "ref:nsrs": "30164",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.327921,
+          60.297619
+        ]
+      },
+      "id": "node/6373691597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373691635",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Åsane terminal",
+        "public_transport": "station",
+        "ref:nsrs": "31024",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.321366,
+          60.463225
+        ]
+      },
+      "id": "node/6373691635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373693137",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Leirvik terminal",
+        "public_transport": "station",
+        "ref:nsrs": "29823"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.501149,
+          59.779243
+        ]
+      },
+      "id": "node/6373693137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373693787",
+        "amenity": "bus_station",
+        "name": "Sandeide terminal",
+        "ref:nsrs": "31901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.266144,
+          60.333832
+        ]
+      },
+      "id": "node/6373693787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373811495",
+        "amenity": "bus_station",
+        "name": "Hauketo stasjon",
+        "ref:nsrs": "6710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.803321,
+          59.84612
+        ]
+      },
+      "id": "node/6373811495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373813347",
+        "amenity": "bus_station",
+        "name": "Skullerud",
+        "ref:nsrs": "5887"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.839944,
+          59.866866
+        ]
+      },
+      "id": "node/6373813347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373814179",
+        "amenity": "bus_station",
+        "name": "Mortensrud T",
+        "ref:nsrs": "5690",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.829163,
+          59.849605
+        ]
+      },
+      "id": "node/6373814179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6448977723",
+        "amenity": "bus_station",
+        "name": "Bragernes torg",
+        "operator": "Brakar",
+        "ref:nsrs": "16808",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.20324,
+          59.743605
+        ]
+      },
+      "id": "node/6448977723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6564222210",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Aksdal bussterminal",
+        "public_transport": "station",
+        "ref:nsrs": "60198"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.449476,
+          59.420276
+        ]
+      },
+      "id": "node/6564222210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6794674457",
+        "amenity": "bus_station",
+        "name": "Tangvall",
+        "ref:nsrs": "24068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.811324,
+          58.098405
+        ]
+      },
+      "id": "node/6794674457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6831983342",
+        "amenity": "bus_station",
+        "name": "Grenstøl bussterminal",
+        "ref:nsrs": "60296"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.901307,
+          58.614471
+        ]
+      },
+      "id": "node/6831983342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6831983343",
+        "amenity": "bus_station",
+        "name": "Solbakk bussterminal",
+        "ref:nsrs": "59384"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.935514,
+          59.036567
+        ]
+      },
+      "id": "node/6831983343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6943167191",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Sandnes bussterminal Ruten",
+        "network": "Ruten",
+        "operator": "Kolumbus",
+        "public_transport": "station",
+        "ref:nsrs": "60623",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.736569,
+          58.851394
+        ]
+      },
+      "id": "node/6943167191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7078192448",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Voss stasjon",
+        "public_transport": "station",
+        "ref:nsrs": "443",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.412247,
+          60.628988
+        ]
+      },
+      "id": "node/7078192448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7293748487",
+        "amenity": "bus_station",
+        "name": "Skien Landmannstorget",
+        "ref:nsrs": "19984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.609729,
+          59.209529
+        ]
+      },
+      "id": "node/7293748487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7880484680",
+        "amenity": "bus_station",
+        "name": "Lyngdal rutebilstasjon",
+        "ref:nsrs": "23851"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.072781,
+          58.138374
+        ]
+      },
+      "id": "node/7880484680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7911668583",
+        "amenity": "bus_station",
+        "name": "Rjukan rutebilstasjon",
+        "ref:nsrs": "19620"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.585899,
+          59.877484
+        ]
+      },
+      "id": "node/7911668583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8196191556",
+        "amenity": "bus_station",
+        "name": "Lierbyen bussterminal",
+        "ref:nsrs": "16743"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.24221,
+          59.787076
+        ]
+      },
+      "id": "node/8196191556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8539969010",
+        "amenity": "bus_station",
+        "name": "Haugesund bussterminal",
+        "ref:nsrs": "61355",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.272928,
+          59.417055
+        ]
+      },
+      "id": "node/8539969010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8639360361",
+        "amenity": "bus_station",
+        "name": "Askim stasjon",
+        "ref:nsrs": "1229"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.16403,
+          59.581312
+        ]
+      },
+      "id": "node/8639360361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9301146532",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4993252,
+          59.7806178
+        ]
+      },
+      "id": "node/9301146532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502068909",
+        "amenity": "bus_station",
+        "name": "Øvrabø bussterminal",
+        "ref:nsrs": "26968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.122316,
+          59.427027
+        ]
+      },
+      "id": "node/9502068909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9861814150",
+        "amenity": "bus_station",
+        "name": "Fyllingsdalen terminal",
+        "ref:nsrs": "62111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.287835,
+          60.349277
+        ]
+      },
+      "id": "node/9861814150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9937372548",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1053709,
+          59.2927632
+        ]
+      },
+      "id": "node/9937372548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9937372554",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1046505,
+          59.2924036
+        ]
+      },
+      "id": "node/9937372554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10032828284",
+        "amenity": "bus_station",
+        "name": "Skarnes Korsmo",
+        "ref:nsrs": "9672",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.674527,
+          60.255762
+        ]
+      },
+      "id": "node/10032828284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10068035687",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Kristiansand rutebilstasjon",
+        "public_transport": "station",
+        "ref:nsrs": "24252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.98983,
+          58.145091
+        ]
+      },
+      "id": "node/10068035687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10128519575",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "internet_access": "no",
+        "name": "Lensmannslia [Buss for tog]",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4332541,
+          59.8310534
+        ]
+      },
+      "id": "node/10128519575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10158850356",
+        "amenity": "bus_station",
+        "name": "Tønsberg rutebilstasjon",
+        "ref:nsrs": "17693"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.412207,
+          59.269764
+        ]
+      },
+      "id": "node/10158850356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10606750239",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Tøsdalskiftet",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.450615,
+          60.2052796
+        ]
+      },
+      "id": "node/10606750239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10606752832",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Osøyro Terminal",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.469037,
+          60.1852927
+        ]
+      },
+      "id": "node/10606752832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11101785313",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Töcksfors (Centralen) Flixbus",
+        "network": "Flixbus",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8413871,
+          59.5085902
+        ]
+      },
+      "id": "node/11101785313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11200218688",
+        "amenity": "bus_station",
+        "network": "Västtrafik",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3271054,
+          58.3128105
+        ]
+      },
+      "id": "node/11200218688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11201567260",
+        "amenity": "bus_station",
+        "name": "Seljord skysstasjon",
+        "ref:nsrs": "62572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.633897,
+          59.4801
+        ]
+      },
+      "id": "node/11201567260"
+    }
+  ]
+}
