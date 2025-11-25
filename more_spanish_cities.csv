@@ -1,0 +1,153 @@
+﻿Name,Adm.,Population
+A Coruña (La Coruña),GAL,249255
+Adeje,CAN,50929
+Albacete,CLM,174073
+Alcalá de Guadaíra,AND,77112
+Alcalá de Henares,MAD,199804
+Alcobendas,MAD,121446
+Alcorcón,MAD,174740
+Alcoy (Alcoi),VAL,60447
+Algeciras,AND,125047
+Alicante (Alacant),VAL,358608
+Almería,AND,201946
+Aranjuez,MAD,62508
+Arganda del Rey,MAD,59209
+Arona,CAN,87848
+Arrecife,CAN,68025
+Ávila,CLE,59119
+Avilés,AST,75663
+Badajoz,EXT,151146
+Badalona,CAT,226219
+Barakaldo (San Vicente de Baracaldo),PAI,101869
+Barcelona,CAT,1686208
+Benalmádena,AND,78011
+Benidorm,VAL,74573
+Bilbao,PAI,347342
+Boadilla del Monte,MAD,65528
+Burgos,CLE,176551
+Cáceres,EXT,96448
+Cádiz,AND,111180
+Calvià,BAL,53826
+Cartagena,MUR,219235
+Castelldefels,CAT,69196
+Castelló de la Plana (Castellón de la Plana),VAL,179861
+Cerdanyola del Vallès,CAT,57831
+Ceuta,CEU,83179
+Chiclana de la Frontera,AND,89805
+Ciudad Real,CLM,75674
+Collado Villalba,MAD,67323
+Colmenar Viejo,MAD,56878
+Córdoba,AND,324902
+Cornellà de Llobregat,CAT,91196
+Coslada,MAD,80688
+Cuenca,CLM,53643
+Donostia (San Sebastián),PAI,188487
+Dos Hermanas,AND,140463
+Eivissa (Ibiza),BAL,53228
+Elche (Elx),VAL,242317
+Elda,VAL,53925
+El Ejido,AND,89462
+El Prat de Llobregat,CAT,65910
+El Puerto de Santa María,AND,90423
+Estepona,AND,78590
+Ferrol (El Ferrol),GAL,64358
+Fuengirola,AND,85646
+Fuenlabrada,MAD,190496
+Gandia (Gandía),VAL,80001
+Getafe,MAD,191560
+Getxo (Guecho),PAI,76155
+Gijón,AST,270219
+Girona (Gerona),CAT,106476
+Granada,AND,233532
+Granadilla de Abona,CAN,57644
+Granollers,CAT,63897
+Guadalajara,CLM,90878
+Huelva,AND,143526
+Huesca,ARA,54664
+Irun (Irún),PAI,63298
+Jaén,AND,111945
+Jerez de la Frontera,AND,214844
+La Laguna (San Cristóbal de la Laguna),CAN,160855
+La Línea de la Concepción,AND,64987
+Las Palmas de Gran Canaria,CAN,383516
+Las Rozas de Madrid,MAD,99193
+Leganés,MAD,193934
+León,CLE,122866
+L'Hospitalet de Llobregat,CAT,282299
+Linares,AND,55303
+Lleida (Lérida),CAT,144878
+Logroño,LAR,150845
+Lorca,MUR,97769
+Lugo,GAL,99365
+Madrid,MAD,3422416
+Majadahonda,MAD,73547
+Málaga,AND,592346
+Manresa,CAT,79737
+Marbella,AND,159054
+Mataró,CAT,130887
+Melilla,MEL,85985
+Mérida,EXT,59894
+Mijas,AND,92211
+Molina de Segura,MUR,77012
+Mollet del Vallès,CAT,52045
+Móstoles,MAD,213268
+Motril,AND,59867
+Murcia,MUR,471982
+Orihuela,VAL,83348
+Ourense (Orense),GAL,104725
+Oviedo,AST,220027
+Palencia,CLE,76578
+Palma (Palma de Mallorca),BAL,438234
+Pamplona (Iruña),NAV,208243
+Parla,MAD,134876
+Paterna,VAL,74508
+Pinto,MAD,55989
+Ponferrada,CLE,62957
+Pontevedra,GAL,83106
+Pozuelo de Alarcón,MAD,89123
+Reus,CAT,109961
+Rincón de la Victoria,AND,52043
+Rivas-Vaciamadrid,MAD,101637
+Roquetas de Mar,AND,108348
+Rubí,CAT,81523
+Sabadell,CAT,221564
+Sagunto (Sagunt),VAL,71756
+Salamanca,CLE,144458
+San Bartolomé de Tirajana,CAN,54976
+San Fernando,AND,93793
+Sanlúcar de Barrameda,AND,69887
+San Sebastián de los Reyes,MAD,94942
+Santa Coloma de Gramenet (Santa Coloma de Gramanet),CAT,120903
+Santa Cruz de Tenerife,CAN,210486
+Santa Lucía de Tirajana,CAN,78048
+Santander,CAR,173635
+Sant Boi de Llobregat,CAT,84588
+Sant Cugat del Vallès,CAT,98649
+Santiago de Compostela,GAL,99491
+San Vicente del Raspeig (Sant Vicent del Raspeig),VAL,60415
+Segovia,CLE,51388
+Sevilla,AND,686741
+Siero,AST,52514
+Talavera de la Reina,CLM,85138
+Tarragona,CAT,141018
+Telde,CAN,103587
+Terrassa (Tarrasa),CAT,228294
+Toledo,CLM,86281
+Torrejón de Ardoz,MAD,141047
+Torrelavega,CAR,51466
+Torremolinos,AND,70920
+Torrent (Torrente),VAL,89456
+Torrevieja,VAL,95760
+Tres Cantos,MAD,52825
+Utrera,AND,52279
+Valdemoro,MAD,83582
+València [Valencia],VAL,824340
+Valladolid,CLE,299816
+Vélez-Málaga,AND,87300
+Vigo,GAL,295523
+Viladecans,CAT,67179
+Vilanova i la Geltrú,CAT,70293
+Vila-real (Villarreal),VAL,52523
+Vitoria-Gasteiz,PAI,257407
+Zamora,CLE,59553
+Zaragoza,ARA,691037
